@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hesam 👋</h1>
 
-<!--
-**He3amCoder/He3amCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer focused on building cross-platform apps using Flutter.  
+💻 Started with Java & Android Studio — Now building for Android, iOS, Web & Desktop.
 
-Here are some ideas to get you started:
+- 🔧 Comfortable with: Flutter, Dart, Java, Kotlin  
+- 🧠 Learning: Python  
+- 🤝 Freelancer & team player  
+- 📈 Always improving & solving problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Optional social or contact links -->
+<!-- [🌐 Portfolio](https://cvresume.ir/r/Hme9U3be4k2h_l2KAExp9A) | [📫 Email](he3amcoder@email.com) -->
+
+---
+
+📌 Checkout some of my pinned projects below!
